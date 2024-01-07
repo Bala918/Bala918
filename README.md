@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">The Indian Full Stack Prodigy: Blending Art and Code.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bala918" alt="bala918" /></a> </p>
 
